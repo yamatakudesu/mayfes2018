@@ -14,5 +14,6 @@ ArduBlock(ScratchのArduino版みたいなやつ)を用いて車を子供に動�
 * 「前との距離が10cm以内になると前進していた車が停止する」プログラムの作成
 
 ### right-hand-method.abp
-* 「右手法」プログラムの作成
-![迷路](https://user-images.githubusercontent.com/25577208/40037298-9ce214b0-5847-11e8-9323-f2db94f5e7b9.png)
+![迷路](https://user-images.githubusercontent.com/25577208/40037298-9ce214b0-5847-11e8-9323-f2db94f5e7b9.png)  
+![右手法]
+(https://user-images.githubusercontent.com/25577208/40037323-c1f00834-5847-11e8-8c52-8ad546b0adec.png)
