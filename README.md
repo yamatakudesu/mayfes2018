@@ -10,6 +10,7 @@
 ## 当日の流れ
 * mae-stop.abp→mae-kabe-stop.abp→right-hand-method.abpの順にやってもらう  
 * ArduBlockはArduinoの「ツール」→「ArduBlock」で開く
+* ArduBlockの「開く」→「〇〇.abp」を選択するとスケッチが開く
 
 ### mae-stop.abp
 * 「1秒前進し, 1秒停止する」プログラムの作成
