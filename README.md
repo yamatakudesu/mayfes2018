@@ -15,3 +15,4 @@ ArduBlock(ScratchのArduino版みたいなやつ)を用いて車を子供に動�
 
 ### right-hand-method.abp
 * 「右手法」プログラムの作成
+![迷路](https://user-images.githubusercontent.com/25577208/40037298-9ce214b0-5847-11e8-9323-f2db94f5e7b9.png)
